@@ -74,7 +74,7 @@ if __name__ == '__main__':
     # --- 使用者設定 ---
 
     # ❗❗❗ 重要：請將底下的連結替換成您自己的 `商品店家對應表.xlsx` 的 "Raw" 連結！
-    mapping_github_url = "https://raw.githubusercontent.com/missfoodietw/shopping-list-automation/4f1ad69dd41c42edd320f12058a10194b966f949/%E5%95%86%E5%93%81%E5%BA%97%E5%AE%B6%E5%B0%8D%E6%87%89%E8%A1%A8.xlsx
+    mapping_github_url = "https://raw.githubusercontent.com/missfoodietw/shopping-list-automation/4f1ad69dd41c42edd320f12058a10194b966f949/%E5%95%86%E5%93%81%E5%BA%97%E5%AE%B6%E5%B0%8D%E6%87%89%E8%A1%A8.xlsx”
 "
 
     try:
