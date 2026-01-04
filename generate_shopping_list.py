@@ -74,7 +74,7 @@ if __name__ == '__main__':
     # --- 使用者設定 ---
 
     # ❗❗❗ 重要：請將底下的連結替換成您自己的 `商品店家對應表.xlsx` 的 "Raw" 連結！
-    mapping_github_url = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/商品店家對應表.xlsx"
+    mapping_github_url = "https://github.com/missfoodietw/shopping-list-automation/blob/0e52b0cb16d755076f1eb4929113711c7efe2fa7/%E5%95%86%E5%93%81%E5%BA%97%E5%AE%B6%E5%B0%8D%E6%87%89%E8%A1%A8.xlsx"
 
     try:
         order_filename = sorted(glob.glob("Order.toship.*.xlsx"))[-1]
